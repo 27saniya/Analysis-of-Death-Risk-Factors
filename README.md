@@ -1,7 +1,6 @@
-## Introduction
-The selected dataset contains various factors responsible for the number of deaths across many countries over a time period. The data is available from the years 1990 to 2017 and spread across three sheets. Some of the parameters affecting death rates include dietary & lifestyle habits, lack of physical exercise, alcohol consumption, pollution etc.
+
 ## Goals
-Overall aim of the project is to analyze death patterns due to various parameters and which parameter causes the highest death rate. We would like to analyze how a country's industrial and economical growth is affecting the death rate. Through visualization, we shall be able to gain insights about the death rate in developed and underdeveloped countries. We will be mainly exploring death patterns in following areas:
+The aim of this project is to analyze death patterns due to various parameters and which parameter causes the highest death rate. We would like to analyze how a country's industrial and economical growth is affecting the death rate. Through visualization, we shall be able to gain insights about the death rate in developed and underdeveloped countries. We will be mainly exploring death patterns in following areas:
 -  Child mortality: Non-exclusive breastfeeding, Discontinued breastfeeding, Child wasting, Child stunting, Low birth weight for gestation.
 -  Lifestyle choices: Alcohol or Drug usage, Smoking, Low physical activity, Unsafe sex, etc.
 - Dietary habits: Low healthy Diet, Vitamin deficiency, Cholesterol, BMI, Blood pressure, etc.
